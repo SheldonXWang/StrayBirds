@@ -46,7 +46,7 @@ timezone:      null
 title: Challenger
 description: A home for challengers
 keywords: Challenger
-url: http://sheldonxwang.github.io/blog
+url: /blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -104,7 +104,7 @@ customLinks:
 #comment config
 disqus:
   config: true
-  id: SheldonXWang
+  id: sheldonxwang
 
 
 #################################### global configure #######################################
@@ -117,7 +117,7 @@ highlighter: pygments
 title: 王潇
 description: 挑战号无人车车队队员
 theme: midnight 
-disqusname: SheldonXWang
+disqusname: sheldonxwang
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
