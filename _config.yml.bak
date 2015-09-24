@@ -116,7 +116,7 @@ safe: false
 highlighter: pygments
 title: 王潇
 description: 挑战号无人车车队队员
-theme: midnight 
+theme: modernist 
 disqusname: sheldonxwang
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka

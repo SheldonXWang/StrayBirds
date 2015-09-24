@@ -39,37 +39,17 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme of <a href="https://github.com/briandoll/change-inside-surroundings.vim">midnight</a></span>
         </div>
         <span id="pagetitle">
-          <h1>Categories </h1>
+          <h1>文章目录 </h1>
         </span>
         
-<div class="article">
-    <h3 class="title">Categories</h3>
-    <ul class="categories">
-    
-    
-        <li class="categories-item"><a href="#科研-ref">
-            科研
-        </a></li>
-    
-    </ul>
 
-<div class="article">
- 
-  <h2  class="article-year" id="科研-ref" data-year="&diams;">科研</h2>
-  <ul style="list-style: none">
-      
+	<ul class="post-list">
     
-      
-        
-            <li style="background:#F2EEEC; padding:5px; margin:3px 0"><a href="/%E7%A7%91%E7%A0%94/2015/09/24/blog-open.html">Blog正式开通</a></li>
-        
-      
+        <a href="/blog/%E7%A7%91%E7%A0%94/2015/09/24/blog-open.html"> Blog正式开通  </a>
+        2015-09-24 <br>
     
-   
-  </ul>
+</ul>
 
-</div>
-</div>
  
       </section>
 
