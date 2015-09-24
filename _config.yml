@@ -46,7 +46,7 @@ timezone:      null
 title: Challenger
 description: A home for challengers
 keywords: Challenger
-url: http://sheldonxwang.github.io/blog
+url: http://sheldonxwang.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
